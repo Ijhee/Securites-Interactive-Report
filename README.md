@@ -1,4 +1,4 @@
-# Securites-Interactive-Report
+![49](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/e016a58c-ab2c-4184-a60b-c1cd7a2ad73b)# Securites-Interactive-Report
 > - Securites Interactive Report: 재무제표 기반 투자성향 진단 및 금융상품 추천 대시보드 <br>
 > - BOAZ 19th Conference에서 데이터 시각화 부분 프로젝트를 진행했습니다.
 > - 팀원 : 이준희(팀장), 김지후, 김청환, 백지영<br>
@@ -6,18 +6,18 @@
 > - 대시보드 링크 : https://public.tableau.com/app/profile/lee.jun.hee/viz/SecuritiesInteractiveReport_HAUL/0_
 > - 발표영상 : https://www.youtube.com/watch?v=VkFtuqI_EpY (시연영상도 함께 있으니 참고해주시면 감사하겠습니다)
 ## 1. 프로젝트 개요
-![5](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/c3c087a0-3090-43ce-b5c0-48674b9251b3)
-![7](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/db31e55d-e17b-461c-aeae-372d098eba40)
+![5](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/57a140d2-dca7-41ec-bf8d-7875ce5b6a51)
+![7](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/91aa5b22-92dc-4b27-aa76-7e3249ea6239)
 ## 2. 대시보드 프리뷰
-![11](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/040d1aa6-ea95-4db8-9429-ef38255933a5)
-![12](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/76b83e3c-3a1f-40a5-96b9-6eb06f348537)
-![14](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/16f76bf2-bff4-4f30-a8ae-e3d02bb028b5)
+![11](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/64170dcd-6470-4d97-8562-65e3a3252081)
+![12](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/a067557c-dcf9-4611-8653-5fe527868695)
+![13](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/cff85fbf-757b-47da-8c13-a909596ce0ff)
+![14](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/3a2d46f3-2277-418b-b6a9-2312de9dd390)
 ## 3. 대시보드 소개
-![16](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/12716b6d-edbe-4fe5-a3ad-0e785cd7aac0)
-![17](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/13a1f9f3-5789-4b5c-983f-9c4207d55475)
-![18](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/cbcd1bc5-9fff-48e4-bf65-b4168a26bf92)
-![25](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/cb310c2e-04e1-4326-a239-7d696d330294)
-![31](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/75cd0fd3-2b5b-40ca-b176-ea307efae000)
-![37](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/4e139cd6-b166-48b3-8d22-70fc241274f3)
-![42](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/7a3defeb-e078-4324-9bc5-9b26e817a8ea)
-![49](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/774f03ae-c6ce-4afa-94c2-2b4ad25fd3e3)
+![16](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/63d04293-7e3a-4374-897d-6f2fe19751bb)
+![17](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/c155d00f-634b-44f3-b77c-3babd1ba5f7f)
+![18](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/9277e834-66cf-42b3-89ed-f97009d28a16)
+![25](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/c0546e06-73ad-41dd-9041-bd42ac7043c9)
+![31](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/b3473dfe-a5e1-4eb0-9962-75c0adb55a32)
+![42](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/d058908a-d5c1-45c6-ae38-0a5ce39f22a5)
+![49](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/eb089759-e694-4ea5-85a2-b36b7661ff18)
