@@ -6,7 +6,7 @@
 > - 대시보드 링크 : https://public.tableau.com/app/profile/lee.jun.hee/viz/SecuritiesInteractiveReport_HAUL/0_
 > - 발표영상 : https://www.youtube.com/watch?v=VkFtuqI_EpY (시연영상도 함께 있으니 참고해주시면 감사하겠습니다)
 ## 0. 대시보드 시연영상
-
+![GIFMaker_me](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/461086e1-b1be-4100-bb7b-c6340e157354)
 ## 1. 프로젝트 개요
 ![5](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/57a140d2-dca7-41ec-bf8d-7875ce5b6a51)
 ![7](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/91aa5b22-92dc-4b27-aa76-7e3249ea6239)
