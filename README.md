@@ -1,4 +1,4 @@
-![49](https://github.com/Ijhee/Securites-Interactive-Report/assets/96717686/e016a58c-ab2c-4184-a60b-c1cd7a2ad73b)# Securites-Interactive-Report
+# Securites-Interactive-Report
 > - Securites Interactive Report: 재무제표 기반 투자성향 진단 및 금융상품 추천 대시보드 <br>
 > - BOAZ 19th Conference에서 데이터 시각화 부분 프로젝트를 진행했습니다.
 > - 팀원 : 이준희(팀장), 김지후, 김청환, 백지영<br>
